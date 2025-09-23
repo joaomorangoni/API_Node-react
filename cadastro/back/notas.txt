@@ -1,4 +1,0 @@
-- joao
-- 05100510
-
-mongodb+srv://joao:05100510@clusterinicial.58hblmj.mongodb.net/?retryWrites=true&w=majority&appName=ClusterInicial
